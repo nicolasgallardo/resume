@@ -1,9 +1,9 @@
 # DSP
-Various DSP Matlab scripts
+Various Digital Signal Processing (DSP) Matlab scripts
 
 1. DFT2D.m perfoms a 2-D Discrete-time Fourier Transfom. (input a 2-D image or matrix)
 
-2. FFT1D.m performs a 1-D FFT using the Twiddle Factor Method.
+2. FFT1D.m performs a 1-D Fast Fourier Transform (FFT) using the Twiddle Factor Method.
 
 3. FFT2D.m performs a 2-D FFT using FFT1D. (input a 2-D image or matrix)
 
